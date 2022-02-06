@@ -1,8 +1,8 @@
-# webpack-boilerplate
-A boilerplate which inspired from luis henrique bizzaro course on awwwards but intent to use up-to-date technologies.
+# Floema
+A repo which has commits according to the lecture of the Bizarro course avail on awwwards 
 
 
-It has commits according to the lecture of the course 
+It also updated
 
 # Setup
 
